@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="197" viewBox="0 0 200 197">
+  <g id="play" transform="translate(-194 -240)">
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(194 240)" fill="none" stroke="#9e9494" stroke-width="5" opacity="0.86">
+      <ellipse cx="100" cy="98.5" rx="100" ry="98.5" stroke="none"/>
+      <ellipse cx="100" cy="98.5" rx="97.5" ry="96" fill="none"/>
+    </g>
+    <g id="play-button" transform="translate(254.111 295)">
+      <path id="Path_2" data-name="Path 2" d="M72.407,34.379,14.33,1.326C8.17-2.191,1.889,1.655,1.889,8.572v69c0,5.86,3.815,8.532,7.36,8.532a9.728,9.728,0,0,0,5.061-1.555L72.647,48.842c2.933-1.8,4.58-4.468,4.528-7.318S75.391,36.066,72.407,34.379Zm-3.669,8.085L10.4,78.164a3.714,3.714,0,0,1-.914.421,3.879,3.879,0,0,1-.115-1.011v-69A5.545,5.545,0,0,1,9.5,7.417a2.929,2.929,0,0,1,1.134.418L68.706,40.889c.716.41.928.765,1,.687A2.51,2.51,0,0,1,68.738,42.464Z" transform="translate(7 0)"/>
+    </g>
+  </g>
+</svg>
